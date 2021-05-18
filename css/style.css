@@ -4,10 +4,16 @@ nav.row{
    
 
 }
-
+.row.jumbo{
+    background-color: lightcoral;
+}
 /* DEBUG */
 
 .debug nav.row{
     border: 1px solid;
     height: 70px;
+}
+
+.debug .row.jumbo .col{
+    height: 500px;
 }
