@@ -7,10 +7,16 @@ nav.row{
 .row.jumbo{
     background-color: lightcoral;
 }
+
+._portfolio{
+    background-color: lightseagreen;
+}
+._red{
+    background-color: red;
+}
+
 .menu_m{
     display: none;
-    text-align: center;
-
 }
 ul.menu_m li{
     display: inline-block;
