@@ -7,6 +7,24 @@ nav.row{
 .row.jumbo{
     background-color: lightcoral;
 }
+.menu_m{
+    display: none;
+    text-align: center;
+
+}
+ul.menu_m li{
+    display: inline-block;
+    
+}
+@media (min-width:768px) {
+    .menu_s{
+        display: none;
+    }
+    .menu_m{
+        display: block;
+    }
+}
+
 /* DEBUG */
 
 .debug nav.row{
