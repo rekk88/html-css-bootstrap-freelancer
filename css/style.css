@@ -1,4 +1,7 @@
-
+img{
+    height: 150px;
+    /* width: 100%; */
+}
 nav.row{
     background-color: lightblue;
    
