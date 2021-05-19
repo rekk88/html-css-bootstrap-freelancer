@@ -8,7 +8,7 @@ nav.row{
     left: 0;
     right: 0;
     top: 0;
-
+    z-index: 50;
 }
 .row.jumbo{
     background-color: lightcoral;
@@ -20,6 +20,11 @@ nav.row{
 #avatar{
     height: 100%;
 }
+.linea{
+    border: 1.5px solid black;
+    height: 0;
+}
+
 .row.about{
     background-color: lightslategray;
 }
