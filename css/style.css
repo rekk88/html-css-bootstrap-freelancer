@@ -31,21 +31,10 @@ nav.row{
     min-width: 200px;
 }
 .row.about{
-    background-color: lightslategray;
+    background-color: #1abc9c;
 }
 .row.about .btn.btn-primary{
     width: auto;
-}
-._portfolio{
-    /* background-color: lightseagreen; */
-    /* width: 100%; */
-    /* margin: 0 auto; */
-}
-._red{
-    background-color: red;
-    border: 1px solid;
-    width: 100%;
-    height: 150px;
 }
 .about_container,
 .contact_container{
