@@ -10,11 +10,16 @@ nav.row{
 .row.jumbo{
     background-color: lightcoral;
 }
-
+.row.about{
+    background-color: lightslategray;
+}
+.row.about .btn.btn-primary{
+    width: auto;
+}
 ._portfolio{
     background-color: lightseagreen;
-    width: 80%;
-    margin: 0 auto;
+    /* width: 100%; */
+    /* margin: 0 auto; */
 }
 ._red{
     background-color: red;
@@ -36,6 +41,11 @@ ul.menu_m li{
     }
     .menu_m{
         display: block;
+    }
+    ._portfolio{
+        /* background-color: lightseagreen; */
+        width: 80%;
+        margin: 0 auto;
     }
 }
 
