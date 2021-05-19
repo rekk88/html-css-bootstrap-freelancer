@@ -14,6 +14,12 @@ nav.row{
     background-color: lightcoral;
     margin-top: 70px;
 }
+.img_container{
+    height: 15rem;
+}
+#avatar{
+    height: 100%;
+}
 .row.about{
     background-color: lightslategray;
 }
