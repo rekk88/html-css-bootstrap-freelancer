@@ -11,7 +11,7 @@ nav.row{
     z-index: 50;
 }
 .row.jumbo{
-    background-color: lightcoral;
+    background-color: #1abc9c;
     margin-top: 70px;
 }
 .img_container{
@@ -20,10 +20,11 @@ nav.row{
 #avatar{
     height: 100%;
 }
-.linea{
-    border: 1.5px solid black;
+._linea{
+    border: 1.5px solid;
     height: 0;
 }
+
 ._star{
     max-width: 500px;
     margin: 0 auto;
@@ -36,7 +37,7 @@ nav.row{
     width: auto;
 }
 ._portfolio{
-    background-color: lightseagreen;
+    /* background-color: lightseagreen; */
     /* width: 100%; */
     /* margin: 0 auto; */
 }
@@ -84,5 +85,5 @@ ul.menu_m li{
 }
 
 .debug .row.jumbo .col{
-    height: 500px;
+    /* height: 500px; */
 }
