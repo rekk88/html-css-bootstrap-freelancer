@@ -27,7 +27,16 @@ nav.row{
     width: 100%;
     height: 150px;
 }
-
+.about_container,
+.contact_container{
+    width: 80%;
+}
+.row.contanct{
+    background-color: grey;
+}
+footer.row{
+    background-color: lightgray;
+}
 .menu_m{
     display: none;
 }
