@@ -24,7 +24,11 @@ nav.row{
     border: 1.5px solid black;
     height: 0;
 }
-
+._star{
+    max-width: 500px;
+    margin: 0 auto;
+    min-width: 200px;
+}
 .row.about{
     background-color: lightslategray;
 }
