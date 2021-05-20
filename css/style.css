@@ -1,12 +1,9 @@
 .btn_green{
     background-color: #1abc9c;
 }
-img{
-    /* height: 170px; */
-    width: 100%;
-}
 nav.row{
     background-color: #2c3e50;
+    height: 70px;
     position: fixed;
     left: 0;
     right: 0;
@@ -46,7 +43,6 @@ nav.row{
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 
 .row.about{
@@ -96,15 +92,4 @@ ul.menu_m li{
         width: 90%;
         margin: 0 auto;
     }
-}
-
-/* DEBUG */
-
-.debug nav.row{
-    /* border: 1px solid;    */
-    height: 70px;
-}
-
-.debug .row.jumbo .col{
-    /* height: 500px; */
 }
